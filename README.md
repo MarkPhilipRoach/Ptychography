@@ -1,1 +1,1 @@
-# Ptychography
+# Ptychographic Algorithms
